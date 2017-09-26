@@ -1,0 +1,6 @@
+C:\Users\User\source\repos\lab1\lab1\bin\Release\lab1.exe.config
+C:\Users\User\source\repos\lab1\lab1\bin\Release\lab1.exe
+C:\Users\User\source\repos\lab1\lab1\bin\Release\lab1.pdb
+C:\Users\User\source\repos\lab1\lab1\obj\Release\lab1.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\lab1\lab1\obj\Release\lab1.exe
+C:\Users\User\source\repos\lab1\lab1\obj\Release\lab1.pdb
