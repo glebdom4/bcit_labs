@@ -91,11 +91,10 @@ namespace lab1
         static void PrintRoots(double[] roots)
         {
             if (roots.Length == 2)
-                Console.WriteLine("Корни данного квадратного уравнения: {0}, {1}.", roots[0], roots[1]);
+                Console.WriteLine($"Корни данного квадратного уравнения: {roots[0]}, {roots[1]}.");
             else if (roots.Length == 0)
-                Console.WriteLine("Данное квадратное уравнение не имеет корней.");
+                Console.WriteLine(@"Данное квадратное уравнение не имеет корней.");
         }
-
-        
+		
     }
 }
